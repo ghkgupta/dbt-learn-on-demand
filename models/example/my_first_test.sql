@@ -1,1 +1,0 @@
-select * from cbi_654edw.stripe.payment
